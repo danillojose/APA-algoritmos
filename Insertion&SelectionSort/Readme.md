@@ -1,4 +1,4 @@
-# Algorithms of Insertion and Selection Sort
+# Insertion and Selection Sort Algorithms
 
 ### To build project:
 ```
