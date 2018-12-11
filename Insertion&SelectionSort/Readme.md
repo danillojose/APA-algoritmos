@@ -1,16 +1,16 @@
 # Algorithms of Insertion and Selection Sort
 
-## To build project:
+### To build project:
 ```
 $ make
 ```
 
-## To execute project:
+### To execute project:
 ```
 $ make run
 ```
 
-## To clean project:
+### To clean project:
 ```
 $ make clean
 ```
