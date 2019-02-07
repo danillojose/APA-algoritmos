@@ -1,4 +1,4 @@
-# Insertion and Selection Sort Algorithms
+# Merge and Quick Sort Algorithms
 
 ### To build project:
 ```
